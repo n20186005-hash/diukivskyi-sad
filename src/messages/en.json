@@ -1,0 +1,378 @@
+{
+  "meta": {
+    "title": "Diukivskyi Sad | Odesa, Ukraine",
+    "description": "Explore the complete guide to Diukivskyi Sad in Odesa, Ukraine. Discover this beautiful park and its surrounding attractions."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Diukivskyi Sad",
+    "subtitle": "Odesa · Ukraine",
+    "rating": "3.9",
+    "reviewCount": "5,994",
+    "hours": "Open 24 Hours",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Explore Diukivskyi Sad",
+    "description": "Diukivskyi Sad (Дюківський Сад) is located in Odesa, Odesa Oblast, Ukraine. It is a beautiful urban park that serves as an ideal place for locals and tourists to relax and unwind. With its rich greenery and pleasant environment, the park is one of the important green spaces in Odesa, providing not only leisure space for citizens but also an excellent vantage point to experience the natural charm of Odesa.",
+    "visitGuide": {
+      "title": "Visiting Tips",
+      "items": [
+        "Free and open all day, visit anytime for a walk or relaxation",
+        "Spring or autumn is recommended for the most pleasant weather",
+        "Multiple paths within the park, perfect for a slow stroll and exploration",
+        "Cafes and small dining options nearby"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Urban Oasis: Diukivskyi Sad is an important park within Odesa, providing precious green space for citizens and tourists.",
+        "Recreation Destination: The park features walking paths and rest areas, making it an ideal place to relax and enjoy nature.",
+        "Convenient Location: Located within Odesa city, easily accessible by walking or public transportation."
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Discover the Charm of Diukivskyi Sad",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Historical Significance",
+        "content": "Diukivskyi Sad is an important park in Odesa, providing recreational space for local residents and tourists. The park has witnessed the development and changes of Odesa city."
+      },
+      {
+        "id": "nature",
+        "title": "Natural Landscape",
+        "content": "The park is planted with various plants, with shaded trees forming a green canopy, making it a rare natural oasis in the city. Visitors can enjoy peaceful moments here and feel the breath of nature."
+      },
+      {
+        "id": "experience",
+        "title": "Recreation Experience",
+        "content": "Diukivskyi Sad is the best place to experience Odesa's urban natural atmosphere. You can sit on a bench in the park to rest, stroll along the tree-lined paths, or simply enjoy a moment of tranquility."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Diukivskyi Sad (Дюківський Сад)",
+    "type": "Attraction Type",
+    "typeValue": "Park",
+    "country": "Country",
+    "countryValue": "Ukraine",
+    "city": "City",
+    "cityValue": "Odesa",
+    "googleRating": "Google Rating",
+    "address": "Address",
+    "addressValue": "Rozkydailivs'ka St, 56, Odesa, Odesa Oblast, Ukraine 65000",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "FPJ3+VR Odesa, Odesa Oblast, Ukraine",
+    "phone": "Phone",
+    "phoneValue": "N/A"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "outdoor": "Entire Park",
+    "outdoorTime": "Free and open all day, no admission fee",
+    "lighthouse": "Best Time to Visit",
+    "summer": "Spring and Autumn",
+    "summerTime": "Pleasant climate, most suitable for outdoor activities and walking",
+    "winter": "Summer",
+    "winterTime": "Hot weather, early morning or late afternoon recommended",
+    "warning": "Notes",
+    "warningTime": "Winter opening hours may be adjusted, please confirm in advance",
+    "tip": "Early mornings and late afternoons are the most peaceful times, perfect for walking and relaxation"
+  },
+  "tickets": {
+    "title": "Ticket Information",
+    "outdoor": "Diukivskyi Sad",
+    "outdoorPrice": "Free all day",
+    "lighthouse": "Nearby Attractions",
+    "adults": "Other Attractions in Odesa",
+    "adultsPrice": "Fees apply according to each attraction's rules",
+    "students": "Parking Fees",
+    "studentsPrice": "Paid parking available near the park",
+    "children": "Transport Tip",
+    "childrenPrice": "Located in Odesa city, accessible by public transport or driving",
+    "card": "Travel Pass",
+    "cardPrice": "Recommended to get a local transport card for convenient public transport"
+  },
+  "transport": {
+    "title": "Transportation",
+    "airport": "From the Airport",
+    "airportDesc": "Nearest airport: Odesa International Airport (ODS) (approx. 10 km, 20 minutes drive). From the airport, you can take a taxi or public transport to the city center.",
+    "selfDrive": "Driving",
+    "selfDriveDesc": "Odesa has convenient transportation within the city. It is recommended to park in paid parking lots around the park.",
+    "bus": "Public Transport",
+    "busDesc": "You can take Odesa's buses or trams to near the park. Please check local public transport apps for specific routes.",
+    "intercity": "Short-Distance Travel",
+    "intercityDesc": "The park is located within Odesa city, very convenient to access from the city center by walking, public transport, or taxi.",
+    "cycling": "Cycling",
+    "cyclingDesc": "Odesa has a certain number of bicycle lanes, and cycling is also a good choice for exploring the city.",
+    "tips": "Travel Tips",
+    "tipsDesc": "Odesa is an important port city in Ukraine, with rich historical culture and beautiful natural landscapes, making it an ideal starting point for exploring southern Ukraine."
+  },
+  "route": {
+    "title": "Visiting Route",
+    "overview": "Odesa City Walking Route",
+    "steps": [
+      "Arrive at Diukivskyi Sad and enjoy the tranquility and nature of the park",
+      "Stroll along the tree-lined paths within the park and feel the freshness of the green oxygen bar",
+      "Head to central Odesa and visit famous attractions such as Odesa Opera and Ballet Theater",
+      "Walk along Odesa's seaside boulevard (Primorsky Boulevard) and enjoy the Black Sea scenery",
+      "Visit Odesa's famous Catacombs Museum",
+      "Taste traditional Ukrainian cuisine at restaurants in the city center"
+    ],
+    "supplements": [
+      "The park is a public space, free and open all day, no reservations needed",
+      "Parking in Odesa city is limited, it is recommended to park in designated public parking lots",
+      "It is recommended to explore central Odesa on foot or by public transport"
+    ],
+    "supplementsTitle": "Visiting Notes"
+  },
+  "photoSpots": {
+    "title": "Photo Spots",
+    "spots": [
+      {
+        "name": "Park Entrance",
+        "desc": "Capture the iconic entrance of the park and surrounding greenery"
+      },
+      {
+        "name": "Tree-Lined Path",
+        "desc": "Capture the shaded paths in the park, full of natural atmosphere"
+      },
+      {
+        "name": "Rest Area",
+        "desc": "Capture the benches and rest areas in the park, suitable for portrait photography"
+      },
+      {
+        "name": "Green Landscape",
+        "desc": "Capture the rich greenery and flowers in the park, showcasing natural beauty"
+      }
+    ],
+    "tips": "Photography Tips",
+    "tipsContent": "Spring and autumn are the most beautiful seasons for Diukivskyi Sad, with lush greenery, making them the best timing for photography."
+  },
+  "gallery": {
+    "title": "Stunning Photos",
+    "subtitle": "Charming Scenery of Diukivskyi Sad",
+    "captions": [
+      "Park Panorama",
+      "Tree-Lined Path",
+      "Green Landscape",
+      "Rest Area Bench",
+      "Park Entrance",
+      "Flower Close-up",
+      "Path Panorama",
+      "Shaded Trees",
+      "Park Corner",
+      "Natural Scenery",
+      "Green Details",
+      "Park Trail",
+      "Leisure Area",
+      "Park Landscape",
+      "Greenery and Sky",
+      "Park Beauty",
+      "Peaceful Corner",
+      "Park Scenery",
+      "Natural Beauty"
+    ],
+    "viewAll": "View more photos on Google Maps",
+    "showAllPhotos": "Show All Photos"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Review information can be viewed via Google Maps (external link).",
+    "moreReviews": "View More Reviews on Google Maps",
+    "items": [
+      {
+        "name": "Oleksandr Kovalenko",
+        "date": "2 months ago",
+        "rating": 4,
+        "text": "A nice park, suitable for walking and relaxation. Rich greenery and fresh air. However, some facilities are outdated, hoping for improvements."
+      },
+      {
+        "name": "Nataliia Petrenko",
+        "date": "1 month ago",
+        "rating": 5,
+        "text": "I really like this park! Lush greenery and beautiful environment. A great place to take family for a walk on weekends. Highly recommended for nature lovers."
+      },
+      {
+        "name": "Ihor Bondarenko",
+        "date": "3 months ago",
+        "rating": 4,
+        "text": "The park is quite large with multiple walking paths. However, maintenance in some areas is not good enough, hoping for better management."
+      },
+      {
+        "name": "Oksana Shevchenko",
+        "date": "Over 6 months ago",
+        "rating": 5,
+        "text": "A wonderful park! Very close to my home, I often come here for walks. Spring flowers are very beautiful, perfect for photography."
+      },
+      {
+        "name": "Volodymyr Melnyk",
+        "date": "1 year ago",
+        "rating": 4,
+        "text": "The park environment is nice, with many benches for resting. However, there are few trash bins, hoping for more to be added."
+      },
+      {
+        "name": "Tetiana Ivanenko",
+        "date": "Over 6 months ago",
+        "rating": 5,
+        "text": "A very beautiful and peaceful park. We walked here and enjoyed the beauty of nature. Children also love it here, with plenty of space to run and play."
+      },
+      {
+        "name": "Serhii Lysenko",
+        "date": "3 months ago",
+        "rating": 4,
+        "text": "Good location, convenient transportation. However, it gets crowded on weekends, recommended to visit on weekdays for more tranquility."
+      },
+      {
+        "name": "Mariia Hrytsenko",
+        "date": "2 months ago",
+        "rating": 5,
+        "text": "A hidden gem park in Odesa! Although not as famous as the large parks in the city center, it's more peaceful and natural. Very suitable for those wanting to escape the city noise."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Transportation Guide",
+    "subtitle": "Rozkydailivs'ka St, 56, Odesa, Odesa Oblast, Ukraine 65000",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Diukivskyi Sad. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Related Resources & Information",
+    "officialLinks": {
+      "mcip": {
+        "name": "Ministry of Culture and Strategic Communication",
+        "url": "https://mcip.gov.ua/"
+      },
+      "tourism": {
+        "name": "State Tourism Development Agency",
+        "url": "https://www.tourism.gov.ua/"
+      },
+      "dmsu": {
+        "name": "State Migration Service",
+        "url": "https://dmsu.gov.ua/"
+      },
+      "oda": {
+        "name": "Odesa Oblast Administration",
+        "url": "https://oda.od.gov.ua/"
+      },
+      "omr": {
+        "name": "Odesa City Council and Municipal Government",
+        "url": "https://omr.gov.ua/"
+      }
+    },
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Information We Collect",
+        "content": "We only collect the minimum data necessary to provide our services. This data may include: browsing data (IP address, browser type, visited pages), cookies and similar technologies, and any information you voluntarily provide via contact forms or email."
+      },
+      {
+        "heading": "2. How We Use Your Information",
+        "content": "We use the collected information to: improve website content and user experience, analyze traffic and usage patterns, respond to requests, and comply with our legal obligations."
+      },
+      {
+        "heading": "3. Third-Party Services",
+        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies."
+      },
+      {
+        "heading": "4. Your Rights",
+        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the right to: access your personal data, request correction or deletion, object to processing, and lodge a complaint with a supervisory authority."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+      },
+      {
+        "heading": "2. Use of Content",
+        "content": "All content on this website is for informational purposes only. We are an independent third-party travel information website, not affiliated with any tourist attractions, government agencies, or commercial operators."
+      },
+      {
+        "heading": "3. Accuracy of Information",
+        "content": "We strive to provide accurate and timely information, but we cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Always verify important information through official channels before traveling."
+      },
+      {
+        "heading": "4. Intellectual Property",
+        "content": "The design and original content of this website are protected by copyright. Images are sourced from Unsplash and used under license. The use of Google Maps data complies with Google's terms of service."
+      },
+      {
+        "heading": "5. Limitation of Liability",
+        "content": "This website is provided \"as is\" without any warranties. We are not responsible for any losses resulting from the use of information on this website, including but not limited to travel decisions made based on its content."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Last Updated: June 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "These cookies are essential for the website to function properly and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "They help us understand how visitors interact with our website by collecting anonymous usage data.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Active",
+          "description": "It collects anonymous information about how visitors use our website."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "They are used to show relevant advertisements and measure the effectiveness of ad campaigns.",
+      "items": [
+        {
+          "name": "Personalized Ads",
+          "status": "Inactive",
+          "description": "It can show you relevant ads based on your interests."
+        }
+      ]
+    },
+    "save": "Save Preferences",
+    "saved": "Settings saved!",
+    "preferences": {
+      "items": [
+        {
+          "name": "User Preferences",
+          "status": "Active",
+          "description": "Saves your language preferences and website settings."
+        }
+      ],
+      "title": "Preference Cookies",
+      "description": "They remember your settings, such as language and theme preferences."
+    },
+    "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
+    "rejectAll": "Reject All"
+  },
+  "officialManagement": {
+    "title": "About Diukivskyi Sad",
+    "text": "Diukivskyi Sad is an important park in Odesa, managed and maintained by the Odesa City Government."
+  }
+}
