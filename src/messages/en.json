@@ -35,6 +35,7 @@
       "items": [
         "Urban Oasis: Diukivskyi Sad is an important park within Odesa, providing precious green space for citizens and tourists.",
         "Recreation Destination: The park features walking paths and rest areas, making it an ideal place to relax and enjoy nature.",
+        "Historical Ruins & Water Features: The park preserves grand abandoned buildings and tranquil ponds, adding a unique retro atmosphere to this urban oasis.",
         "Convenient Location: Located within Odesa city, easily accessible by walking or public transportation."
       ]
     }
@@ -155,8 +156,12 @@
       {
         "name": "Green Landscape",
         "desc": "Capture the rich greenery and flowers in the park, showcasing natural beauty"
+      },
+      {
+        "name": "Abandoned Buildings & Ponds",
+        "desc": "Capture the grand abandoned buildings with a sense of historical vicissitudes and the tranquil ponds, perfect for ruin-style or retro portrait photography"
       }
-    ],
+    ], 
     "tips": "Photography Tips",
     "tipsContent": "Spring and autumn are the most beautiful seasons for Diukivskyi Sad, with lush greenery, making them the best timing for photography."
   },
