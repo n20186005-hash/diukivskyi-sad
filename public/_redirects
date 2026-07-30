@@ -1,0 +1,4 @@
+# Cloudflare Pages / Netlify edge redirects
+# Redirect the root path to the default locale (ru) at the edge,
+# so visitors never see the static "Redirecting..." transition page.
+/  /ru/  302
