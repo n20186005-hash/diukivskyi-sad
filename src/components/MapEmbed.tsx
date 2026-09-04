@@ -25,13 +25,13 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://maps.google.com/maps?q=Diukivskyi+Sad,+Odesa,+Ukraine&t=&z=15&ie=UTF8&iwloc=&output=embed"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3881.286043699772!2d30.704618900000003!3d46.4822407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40c631f04fe69b39%3A0x89deaffffe018e06!2sDiukivskyi%20Sad!5e1!3m2!1sen!2s!4v1788535761003!5m2!1sen!2s"
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
+            referrerPolicy="strict-origin-when-cross-origin"
             title="Google Maps - Diukivskyi Sad"
           />
         </div>

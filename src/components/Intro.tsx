@@ -6,6 +6,7 @@ export default function Intro() {
   const messages = useMessages() as any;
   const items: string[] = messages?.intro?.visitGuide?.items || [];
   const alsoKnownAsItems: string[] = messages?.intro?.alsoKnownAs?.items || [];
+  const crumbs: string[] = messages?.intro?.locationCrumbs || [];
 
   return (
     <section className="section-padding">
@@ -17,6 +18,38 @@ export default function Intro() {
           {t('title')}
         </h2>
         <div className="w-12 h-0.5 mb-8" style={{ background: 'var(--accent)' }} />
+
+        <p
+          className="text-lg leading-relaxed mb-6"
+          style={{ color: 'var(--text-primary)' }}
+        >
+          {t('lead')}
+        </p>
+
+        {crumbs.length > 0 && (
+          <nav aria-label="Breadcrumb" className="mb-8">
+            <ol className="flex flex-wrap items-center gap-x-2 gap-y-1 text-sm">
+              {crumbs.map((crumb, i) => (
+                <li key={i} className="flex items-center gap-2">
+                  {i > 0 && (
+                    <span aria-hidden="true" style={{ color: 'var(--text-muted)' }}>
+                      ›
+                    </span>
+                  )}
+                  <span
+                    className={i === crumbs.length - 1 ? 'font-medium' : ''}
+                    style={{
+                      color: i === 0 ? 'var(--accent)' : 'var(--text-secondary)',
+                      fontWeight: i === 0 ? 600 : undefined,
+                    }}
+                  >
+                    {crumb}
+                  </span>
+                </li>
+              ))}
+            </ol>
+          </nav>
+        )}
 
         <p
           className="text-lg leading-relaxed mb-12"

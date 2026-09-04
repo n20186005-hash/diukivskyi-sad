@@ -1,6 +1,6 @@
 'use client';
 
-import { useTranslations } from 'next-intl';
+import { useTranslations, useMessages } from 'next-intl';
 import { useState, useCallback } from 'react';
 
 const photoFiles = [
@@ -27,15 +27,23 @@ const photoFiles = [
 
 export default function Gallery() {
   const t = useTranslations('gallery');
+  const messages = useMessages() as any;
   const captions = t.raw('captions') as string[];
+  const altPostfix: string = messages?.galleryAlt?.postfix || '';
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
   const [showAll, setShowAll] = useState(true);
 
-  const photos = photoFiles.map((file, i) => ({
-    src: `/gallery/${file}`,
-    alt: captions?.[i] || `Diukivskyi Sad ${i + 1}`,
-  }));
+  const photos = photoFiles.map((file, i) => {
+    const base = `/gallery/${file.replace(/\.jpe?g$/i, '')}`;
+    const label = captions?.[i] || `Diukivskyi Sad ${i + 1}`;
+    return {
+      thumb: `${base}.thumb.webp`,
+      full: `${base}.webp`,
+      alt: altPostfix ? `${label}, ${altPostfix}` : label,
+      label,
+    };
+  });
 
   const visiblePhotos = photos;
 
@@ -74,16 +82,24 @@ export default function Gallery() {
                   className={`gallery-item relative group cursor-pointer ${i === 0 ? 'col-span-2 row-span-2' : ''}`}
                   onClick={() => openLightbox(i)}
                 >
-                  <img
-                    src={photo.src}
-                    alt={photo.alt}
-                    className="w-full h-full object-cover rounded-lg"
-                    style={{ minHeight: i === 0 ? '400px' : '180px' }}
-                    loading="lazy"
-                  />
+                  <picture>
+                    <source srcSet={i === 0 ? photo.full : photo.thumb} type="image/webp" />
+                    <img
+                      src={
+                        i === 0
+                          ? photo.full.replace(/\.webp$/, '.jpg')
+                          : photo.thumb.replace(/\.thumb\.webp$/, '.jpg')
+                      }
+                      alt={photo.alt}
+                      className="w-full h-full object-cover rounded-lg"
+                      style={{ minHeight: i === 0 ? '400px' : '180px' }}
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </picture>
                   <div className="absolute inset-0 bg-black/0 group-hover:bg-black/30 transition-colors rounded-lg flex items-end">
                     <p className="text-white text-sm p-3 opacity-0 group-hover:opacity-100 transition-opacity">
-                      {photo.alt}
+                      {photo.label}
                     </p>
                   </div>
                 </div>
@@ -131,12 +147,16 @@ export default function Gallery() {
             </svg>
           </button>
 
-          <img
-            src={photos[currentIndex].src}
-            alt={photos[currentIndex].alt}
-            className="max-w-[90vw] max-h-[85vh] object-contain rounded-lg"
-            onClick={(e) => e.stopPropagation()}
-          />
+          <picture>
+            <source srcSet={photos[currentIndex].full} type="image/webp" />
+            <img
+              src={`${photos[currentIndex].full.replace(/\.webp$/, '.jpg')}`}
+              alt={photos[currentIndex].alt}
+              className="max-w-[90vw] max-h-[85vh] object-contain rounded-lg"
+              onClick={(e) => e.stopPropagation()}
+              decoding="async"
+            />
+          </picture>
 
           <button
             onClick={(e) => { e.stopPropagation(); goToNext(); }}

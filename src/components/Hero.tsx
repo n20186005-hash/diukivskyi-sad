@@ -7,11 +7,17 @@ export default function Hero() {
     <section className="relative min-h-screen flex items-end pb-16 sm:pb-24 overflow-hidden">
       {/* Background image */}
       <div className="absolute inset-0">
-        <img
-          src="/gallery/diukivskyi-sad (2).jpg"
-          alt="Diukivskyi Sad"
-          className="w-full h-full object-cover"
-        />
+        <picture>
+          <source srcSet="/gallery/diukivskyi-sad (2).webp" type="image/webp" />
+          <img
+            src="/gallery/diukivskyi-sad (2).jpg"
+            alt={t('imageAlt')}
+            className="w-full h-full object-cover"
+            loading="eager"
+            fetchPriority="high"
+            decoding="async"
+          />
+        </picture>
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
       </div>
 

@@ -1,0 +1,40 @@
+{
+  "id": "/",
+  "name": "Diukivskyi Sad (Odesa) - Visitor Guide & Location",
+  "short_name": "Diukivskyi Sad",
+  "description": "Visitor guide and location information for Diukivskyi Sad park in Odesa, Odesa Oblast, Ukraine.",
+  "start_url": "/ru/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#234830",
+  "lang": "ru",
+  "dir": "ltr",
+  "categories": ["travel", "parks", "lifestyle"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

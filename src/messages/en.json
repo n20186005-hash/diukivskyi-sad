@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Diukivskyi Sad | Odesa, Ukraine",
-    "description": "Explore the complete guide to Diukivskyi Sad in Odesa, Ukraine. Discover this beautiful park and its surrounding attractions."
+    "title": "Diukivskyi Sad (Duke's Garden) Odesa - Photos, Ponds & Guide",
+    "description": "Diukivskyi Sad (Duke's Garden) is Odesa's oldest park (1810): terraced lanes, a pond with an island, playgrounds, history and legends. Address: Rozkydailivska St, 56. Photos, map and visitor tips."
   },
   "header": {
     "home": "Home",
@@ -11,16 +11,24 @@
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Diukivskyi Sad",
+    "title": "Diukivskyi Sad (Duke's Garden)",
     "subtitle": "Odesa · Ukraine",
     "rating": "3.9",
     "reviewCount": "5,994",
     "hours": "Open 24 Hours",
-    "openMaps": "View Location"
+    "openMaps": "View Location",
+    "imageAlt": "Diukivskyi Sad - Main view in Odesa, Ukraine"
   },
   "intro": {
     "title": "Explore Diukivskyi Sad",
     "description": "Diukivskyi Sad (Дюківський Сад) is located in Odesa, Odesa Oblast, Ukraine. It is a beautiful urban park that serves as an ideal place for locals and tourists to relax and unwind. With its rich greenery and pleasant environment, the park is one of the important green spaces in Odesa, providing not only leisure space for citizens but also an excellent vantage point to experience the natural charm of Odesa.",
+    "lead": "Welcome to Diukivskyi Sad (Дюківський Сад), widely recognized simply as the Duke's Garden of Odesa. Located in the city of Odesa, Odesa Oblast, Ukraine, this public park is a primary destination for travellers exploring the region.",
+    "locationCrumbs": [
+      "Diukivskyi Sad",
+      "Odesa",
+      "Odesa Oblast",
+      "Ukraine"
+    ],
     "visitGuide": {
       "title": "Visiting Tips",
       "items": [
@@ -278,7 +286,8 @@
         "url": "https://omr.gov.ua/"
       }
     },
-    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions.",
+    "imageCredit": "All photographs displayed on this website belong to their original photographers and are protected by copyright."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -294,7 +303,7 @@
       },
       {
         "heading": "3. Third-Party Services",
-        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies."
+        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis) and a weather forecast provider (when you view the weather module, the approximate coordinates of the location are transmitted so that current conditions can be shown). These services have their own privacy policies."
       },
       {
         "heading": "4. Your Rights",
@@ -320,7 +329,7 @@
       },
       {
         "heading": "4. Intellectual Property",
-        "content": "The design and original content of this website are protected by copyright. Images are sourced from Unsplash and used under license. The use of Google Maps data complies with Google's terms of service."
+        "content": "The design and original content of this website are protected by copyright. Photographs in the gallery belong to their respective authors and are published with their permission; any further use without the owners' consent is not permitted. The use of Google Maps content complies with Google's terms of service."
       },
       {
         "heading": "5. Limitation of Liability",
@@ -377,5 +386,228 @@
   "officialManagement": {
     "title": "About Diukivskyi Sad",
     "text": "Diukivskyi Sad is an important park in Odesa, managed and maintained by the Odesa City Government."
+  },
+  "landmarks": {
+    "title": "Landmarks & Attractions Around Diukivskyi Sad",
+    "intro": "When visiting Diukivskyi Sad, visitors can easily explore the iconic landmarks and points of interest of Odesa, including the Odesa Opera and Ballet Theater and the Potemkin Stairs on Primorsky Boulevard.",
+    "items": [
+      {
+        "name": "Odesa Opera and Ballet Theater",
+        "note": "One of Odesa's most celebrated landmarks, home to world-class performances in a grand historic theatre.",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Odesa+National+Academic+Theater+of+Opera+and+Ballet"
+      },
+      {
+        "name": "Potemkin Stairs & Primorsky Boulevard",
+        "note": "The monumental staircase leading down to the Black Sea waterfront on Odesa's famous seaside boulevard.",
+        "mapUrl": "https://www.google.com/maps/search/?api=1&query=Potemkin+Stairs+Odesa"
+      }
+    ]
+  },
+  "history": {
+    "title": "History & Significance of Diukivskyi Sad",
+    "paragraphs": [
+      "The name Diukivskyi Sad (Дюківський Сад) translates as \"the Duke's Garden\". The area is traditionally associated with Armand-Emmanuel du Plessis, Duke de Richelieu, the first governor of Odesa, who is credited with turning this district into a green suburban landscape in the early 19th century.",
+      "Over the following two centuries the former estate gardens gradually became a public urban park maintained by the city of Odesa. Today its tree-lined paths, ponds, children's play areas and grand abandoned buildings still echo the atmosphere of 19th-century Odesa in the modern city."
+    ],
+    "legendTitle": "A local legend: the spring that met the troops of 1789",
+    "legendBody": "Odesa lore holds that on 13 September 1789, a detachment of José de Ribas's troops drank water from the spring of this gully on their way to storm the fortress of Khadzhibey - the settlement on whose site Odesa would later rise. The spring is thus remembered as having witnessed the city's very beginning, and the park's ponds still feed on those waters today.",
+    "legendNote": "The tale is part of Odesa's oral tradition and cannot be confirmed by surviving documents, yet it remains one of the most beloved stories locals tell about the park."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "intro": "Everything you need to know before visiting Diukivskyi Sad in Odesa.",
+    "items": [
+      {
+        "q": "Where is Diukivskyi Sad located?",
+        "a": "Diukivskyi Sad (Дюківський Сад) is located at Rozkydailivs'ka St, 56, in the city of Odesa, Odesa Oblast, Ukraine, postal code 65000. Its geographic coordinates are approximately 46.4822 N, 30.7046 E."
+      },
+      {
+        "q": "What kind of place is Diukivskyi Sad?",
+        "a": "Diukivskyi Sad is a public urban park in Odesa. It features tree-lined paths, children's play areas, ponds and grand abandoned buildings, and it hosts an annual beer festival."
+      },
+      {
+        "q": "Is Diukivskyi Sad free to visit?",
+        "a": "Yes, Diukivskyi Sad is a public space and is free to visit year-round. The park is open all day with no admission fee."
+      },
+      {
+        "q": "What are the opening hours of Diukivskyi Sad?",
+        "a": "As a public park, Diukivskyi Sad is generally open 24 hours. Opening conditions may be adjusted, so it is a good idea to check the current situation before your visit."
+      },
+      {
+        "q": "When is the best time to visit Diukivskyi Sad?",
+        "a": "Spring and autumn are the most pleasant seasons to visit Diukivskyi Sad, when the weather is mild and the greenery is at its best. On hot summer days, come early in the morning or late in the afternoon."
+      },
+      {
+        "q": "How do I get to Diukivskyi Sad in Odesa?",
+        "a": "Diukivskyi Sad lies within Odesa city and can be reached by city buses, trams, taxi or car. The nearest airport is Odesa International Airport (ODS), about 10 km away. The park's Google Plus Code is FPJ3+VR Odesa."
+      },
+      {
+        "q": "Is Diukivskyi Sad suitable for families with children?",
+        "a": "Yes, Diukivskyi Sad includes children's play areas, open lawns and calm walking paths, making it a family-friendly destination in Odesa."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Sources & References",
+    "intro": "This visitor guide is compiled from publicly available information. For official updates and regional tourism information, always refer to the sources below.",
+    "items": [
+      {
+        "label": "Diukivskyi Sad on Google Maps",
+        "note": "Official location, reviews and photos.",
+        "url": "https://maps.app.goo.gl/drj7Vr1ua1Lsm4UM8"
+      },
+      {
+        "label": "State Tourism Development Agency of Ukraine",
+        "note": "National tourism authority.",
+        "url": "https://www.tourism.gov.ua/"
+      },
+      {
+        "label": "Odesa City Council",
+        "note": "Municipal government of Odesa.",
+        "url": "https://omr.gov.ua/"
+      },
+      {
+        "label": "Odesa Oblast State Administration",
+        "note": "Regional administration.",
+        "url": "https://oda.od.gov.ua/"
+      },
+      {
+        "label": "Ministry of Culture and Strategic Communications of Ukraine",
+        "note": "National cultural authority.",
+        "url": "https://mcip.gov.ua/"
+      }
+    ]
+  },
+  "nature": {
+    "title": "Nature & Landscape of Diukivskyi Sad",
+    "subtitle": "An urban garden shaped by water, slopes and two centuries of growth",
+    "paragraphs": [
+      "Diukivskyi Sad spreads over the slopes of the Vodiana gully on Odesa's Slobidska side. Instead of a flat city square, visitors find a garden arranged on several natural levels - a rare, almost hilly relief for this part of the steppe coast, and one of the reasons the park feels so different from the city around it.",
+      "Water has always been the quiet protagonist of the garden. A large pond about 200 metres long and 50 metres wide occupies the lower part of the park, with a small island in the middle; the pond is fed by springs rising in the gully, and a decorative fountain adds life to the scene.",
+      "Together the mature trees, lawns, shrubs and open water turn the garden into a genuine 'green lung' of its densely built-up quarter. Ponds and tree canopy attract birds and small animals, and even in the middle of the city the alleys are filled with birdsong - one more reason locals come here to rest.",
+      "Each season rewrites the landscape: blossom and fresh green in spring, deep shade in summer, golden foliage in autumn, calm light-filled walks in winter. As with any historic park, please keep to the paths, take your rubbish home and let the local wildlife be."
+    ]
+  },
+  "facilities": {
+    "title": "Facilities & Amenities Around the Park",
+    "subtitle": "Practical information about the services you can expect nearby - listed by type only, with no individual business recommendations.",
+    "neutrality": "Diukivskyi Sad is presented here by an independent, non-commercial educational project. We never promote specific businesses: the list below describes only the typical kinds of services found near the park and in Odesa, so that you can plan your visit independently.",
+    "items": [
+      {
+        "name": "Public Toilets",
+        "text": "Open green areas usually offer limited restroom facilities, which may not be open around the clock. Public conveniences on nearby streets and venues such as cafés and shopping areas are the practical alternative - plan a stop before you enter the park."
+      },
+      {
+        "name": "Parking",
+        "text": "Street parking around the park is limited and in central Odesa is usually paid. Official paid parking lots operate in the district. At weekends spaces fill up quickly, so arrive early or use public transport."
+      },
+      {
+        "name": "Food & Drink",
+        "text": "Within a short walk visitors find cafés, coffee shops, fast-food places and restaurants serving Ukrainian and European cuisine - convenient for a meal before or after your walk through the park."
+      },
+      {
+        "name": "Shops & Convenience Stores",
+        "text": "Grocery stores, minimarkets and kiosks are spread across the surrounding residential area, handy for water, snacks, picnic supplies and everyday essentials."
+      },
+      {
+        "name": "Accommodation",
+        "text": "Odesa offers every type of lodging, from hotels and apartments to hostels and guesthouses. Most central accommodation is only a short tram or taxi ride away from the garden."
+      },
+      {
+        "name": "Fuel & EV Charging",
+        "text": "Fuel stations and electric-vehicle charging points are spread across the city rather than at the park itself. Both are easy to find along a driving route - check a navigation app for the nearest options."
+      },
+      {
+        "name": "Families & Accessibility",
+        "text": "Children's playgrounds, open lawns and the main paths make the park family-friendly. Because the terrain follows the gully slope, some lanes are noticeably steeper than others, so comfortable footwear is recommended."
+      }
+    ]
+  },
+  "weather": {
+    "title": "Weather at Diukivskyi Sad",
+    "subtitle": "Live conditions in Odesa and a seven-day outlook, so you know whether to pack an umbrella before heading out.",
+    "now": "Right now",
+    "feelsLike": "Feels like",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "rainProbability": "Rain probability",
+    "today": "Today",
+    "forecast": "7-Day Forecast",
+    "sunrise": "Sunrise",
+    "sunset": "Sunset",
+    "updatedAt": "Updated",
+    "unavailable": "The forecast is temporarily unavailable. Please check a local weather service before your trip.",
+    "retry": "Try again",
+    "loading": "Loading the latest forecast…",
+    "condition": {
+      "clear": "Clear sky",
+      "mainlyClear": "Mostly clear",
+      "partlyCloudy": "Partly cloudy",
+      "overcast": "Overcast",
+      "fog": "Fog",
+      "drizzle": "Light drizzle",
+      "rain": "Rain",
+      "snow": "Snow",
+      "rainShowers": "Rain showers",
+      "snowShowers": "Snow showers",
+      "thunderstorm": "Thunderstorm",
+      "thunderstormHail": "Thunderstorm with hail"
+    }
+  },
+  "thingsToDo": {
+    "title": "Things to Do at Diukivskyi Sad",
+    "subtitle": "Why the park is worth a visit, and how to spend a few unhurried hours in Odesa's oldest garden.",
+    "cards": [
+      {
+        "name": "Pond & tree-lined lanes",
+        "text": "The large pond with a small island at the foot of the gully is the heart of the park; its calm banks and the old fountain are perfect for slow walks and photographs in every season."
+      },
+      {
+        "name": "Lawns & children's playgrounds",
+        "text": "Open lawns and playgrounds spread across the middle terraces of the park. Because the terrain slopes, nearly every resting spot has its own shady corner - handy for a picnic or an afternoon with a book."
+      },
+      {
+        "name": "Dog-friendly walks",
+        "text": "Odesa residents regularly walk their dogs along the park lanes. Please keep pets on a lead, clean up after them and give other visitors space; the flat lane by the pond makes an easy loop."
+      },
+      {
+        "name": "History & atmospheric ruins",
+        "text": "The grand abandoned buildings of the park - from former sports pavilions to old exhibition structures - create a unique retro scenery for strolls and photo sessions that no other park in Odesa repeats."
+      },
+      {
+        "name": "Festivals & city events",
+        "text": "The park has long been a venue for public events: in summer 2021, for example, it hosted the jubilee All-Ukrainian Beer Festival. For the current programme, check the official city announcements."
+      }
+    ]
+  },
+  "odesaParks": {
+    "title": "Odesa Parks: What Makes Diukivskyi Sad Special",
+    "subtitle": "Odesa is a city of dozens of parks and squares. Here is how its oldest park - known locally as Дюковський парк, Дюковский сад or simply the Duke's Garden - compares with the other famous green areas.",
+    "items": [
+      {
+        "name": "Diukivskyi Sad (Duke's Garden)",
+        "text": "Odesa's oldest park, laid out in 1810 on the terraced slopes of the Vodiana gully. Instead of flat lawns it offers three natural levels, springs, a pond with an island and atmospheric ruins of the 19th-20th centuries - a setting no other park in the city repeats."
+      },
+      {
+        "name": "Shevchenko Park",
+        "text": "The largest seaside park of Odesa, stretching from the marine boulevard and the lighthouse down to the city beach. In summer its waterfront is busy with fairground rides and cafés - the right choice when you want sea views and amusements rather than quiet greenery."
+      },
+      {
+        "name": "Odesa City Garden",
+        "text": "A classic 19th-century urban garden in the very centre, a few steps from Deribasivska Street: shaded alleys, a historic fountain and plenty of benches. More a square of the old town than a park, but a true symbol of Odesa."
+      },
+      {
+        "name": "Victory Park",
+        "text": "A large, mostly flat park in the north of Odesa with broad lanes for cycling and jogging, sports grounds and lawns for city-wide celebrations. Its open geometry makes a sharp contrast with the hillside terraces of Duke's Garden."
+      },
+      {
+        "name": "Istanbul Park",
+        "text": "A green slope high above the Black Sea along the French Boulevard, with panoramic views over the bay and a quieter atmosphere than the big central parks."
+      }
+    ],
+    "note": "Every park has its own character, but people come to Diukivskyi Sad for history, vintage atmosphere, water and birdsong - and it is the only one that began as a duke's private garden in 1810."
+  },
+  "galleryAlt": {
+    "postfix": "Diukivskyi Sad park, Odesa, Ukraine"
   }
 }
