@@ -1,0 +1,10 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "diukivskyisad",
+  "compatibility_date": "2026-09-04",
+  "assets": {
+    "directory": "./out",
+    "html_handling": "auto",
+    "not_found_handling": "404-page"
+  }
+}
